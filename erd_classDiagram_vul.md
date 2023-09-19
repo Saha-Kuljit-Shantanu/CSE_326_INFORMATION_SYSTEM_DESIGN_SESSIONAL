@@ -8,6 +8,4 @@
 - **Dues status and clearance details can be merged**
 
 
-# Errors in the class Diagram
 
-- **Optional : Penalty amount can be added to dues**
