@@ -19,12 +19,12 @@
 - **Response can be rejected now as well**
 - **Negative reply is now generated instantly**
 
-# Errors in the Inventory and Stock Maintenance Pool
+# Corrections in the Inventory and Stock Maintenance Pool
 
 - **Inventory will be initiated by inventory Manager**
 - **Details of new item can be set now**
 
-# Errors in Clearance Pool
+# Corrections in Clearance Pool
 - **The process of Lab assistant providing a reminder to a student after 14 days is now iterated over**
 
 
